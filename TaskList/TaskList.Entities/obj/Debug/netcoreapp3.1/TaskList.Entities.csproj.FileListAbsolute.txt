@@ -1,0 +1,9 @@
+C:\Users\tubao\source\repos\TaskList\TaskList.Entities\bin\Debug\netcoreapp3.1\TaskList.Entities.deps.json
+C:\Users\tubao\source\repos\TaskList\TaskList.Entities\bin\Debug\netcoreapp3.1\TaskList.Entities.dll
+C:\Users\tubao\source\repos\TaskList\TaskList.Entities\bin\Debug\netcoreapp3.1\TaskList.Entities.pdb
+C:\Users\tubao\source\repos\TaskList\TaskList.Entities\obj\Debug\netcoreapp3.1\TaskList.Entities.csproj.AssemblyReference.cache
+C:\Users\tubao\source\repos\TaskList\TaskList.Entities\obj\Debug\netcoreapp3.1\TaskList.Entities.AssemblyInfoInputs.cache
+C:\Users\tubao\source\repos\TaskList\TaskList.Entities\obj\Debug\netcoreapp3.1\TaskList.Entities.AssemblyInfo.cs
+C:\Users\tubao\source\repos\TaskList\TaskList.Entities\obj\Debug\netcoreapp3.1\TaskList.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tubao\source\repos\TaskList\TaskList.Entities\obj\Debug\netcoreapp3.1\TaskList.Entities.dll
+C:\Users\tubao\source\repos\TaskList\TaskList.Entities\obj\Debug\netcoreapp3.1\TaskList.Entities.pdb

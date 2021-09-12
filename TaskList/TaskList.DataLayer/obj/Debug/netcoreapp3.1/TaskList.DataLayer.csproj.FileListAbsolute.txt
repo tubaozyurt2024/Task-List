@@ -1,0 +1,12 @@
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\bin\Debug\netcoreapp3.1\TaskList.DataLayer.deps.json
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\bin\Debug\netcoreapp3.1\TaskList.DataLayer.dll
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\bin\Debug\netcoreapp3.1\TaskList.DataLayer.pdb
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\bin\Debug\netcoreapp3.1\TaskList.Entities.dll
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\bin\Debug\netcoreapp3.1\TaskList.Entities.pdb
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\obj\Debug\netcoreapp3.1\TaskList.DataLayer.csproj.AssemblyReference.cache
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\obj\Debug\netcoreapp3.1\TaskList.DataLayer.AssemblyInfoInputs.cache
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\obj\Debug\netcoreapp3.1\TaskList.DataLayer.AssemblyInfo.cs
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\obj\Debug\netcoreapp3.1\TaskList.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\obj\Debug\netcoreapp3.1\TaskList.DataLayer.csproj.CopyComplete
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\obj\Debug\netcoreapp3.1\TaskList.DataLayer.dll
+C:\Users\tubao\source\repos\TaskList\TaskList.DataLayer\obj\Debug\netcoreapp3.1\TaskList.DataLayer.pdb
